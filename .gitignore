@@ -1,0 +1,5 @@
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+__pycache__/helper.cpython-314.pyc
+*.pyc
